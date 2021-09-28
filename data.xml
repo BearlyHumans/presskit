@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<company>
+  <!-- ## General Information -->
+
+  <title>Bearly Humans</title>
+  <based-in>Melbourne, Australia</based-in>
+  <founding-date>March 5th, 2021</founding-date>
+  <website>https://bearlyhumans.epsi.dev/</website>
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>https://twitter.com/BearlyHumans</link>
+    </social>
+    <social>
+      <name>TikTok</name>
+      <link>https://tiktok.com/@squirrelville</link>
+    </social>
+    <social>
+      <name>Instagram</name>
+      <link>https://instagram.com/bearlyhumansgames</link>
+    </social>
+    <social>
+      <name>YouTube</name>
+      <link>https://youtube.com/channel/UCfM2-FgzpMFOZ9zIDDJWz6Q</link>
+    </social>
+  </socials>
+
+  <press-contact>bearlyhumans.games@gmail.com</press-contact>
+
+  <!-- ## Description & History -->
+
+  <description>
+    Hello! We are Bearly Humans, and we are currently developing our first game, Squirrelville!
+  </description>
+
+  <history>
+    Bearly Humans was formed from a group of Australian university students from various backgrounds for their final year project. Beginning as strangers, they learned (are learning) to navigate the behemoth of game development together! After an initial period of pitching various projects, Squirrelville was chosen as their project to develop fully. Unfortunately due to the COVID-19 outbreak in Melbourne, their initial plans to exhibit at PAX Aus were upended, and Bearly Humans had to adapt to fully developing their first large-scale project while also in the midst of a lockdown.
+  </history>
+
+  <!-- ## Trailers -->
+
+  <!-- <trailers>
+    <trailer>
+      <name>Example from YouTube. Don't give a full link: the ID is enough</name>
+      <youtube>er416Ad3R1g</youtube>
+    </trailer>
+  </trailers> -->
+
+  <!-- ## Team & Contacts -->
+
+  <credits>
+    <credit>
+      <person>Luke Perry</person>
+      <role>Director, Animator</role>
+    </credit>
+    <credit>
+      <person>Toby Amiel</person>
+      <role>Creative Director, Designer</role>
+    </credit>
+    <credit>
+      <person>Jet Proposch</person>
+      <role>Designer</role>
+    </credit>
+    <credit>
+      <person>Michael Theuy</person>
+      <role>3D Artist</role>
+    </credit>
+    <credit>
+      <person>Saige Omernik</person>
+      <role>2D Artist</role>
+    </credit>
+    <credit>
+      <person>Jake Scott</person>
+      <role>Lead Programmer</role>
+    </credit>
+    <credit>
+      <person>Jordan Epstein</person>
+      <role>Programmer</role>
+    </credit>
+    <credit>
+      <person>Lachlan Hines</person>
+      <role>Programmer</role>
+    </credit>
+    <credit>
+      <person>Callum Lee Gow</person>
+      <role>Composer</role>
+    </credit>
+    <credit>
+      <person>Nicholas Dennis</person>
+      <role>Main Focus Marketing</role>
+      <website>https://mainfocusmarketing.com.au/</website>
+    </credit>
+    <credit>
+      <person>Anita Cercarelli</person>
+      <role>Main Focus Marketing</role>
+      <website>https://mainfocusmarketing.com.au/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>bearlyhumans.games@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/BearlyHumans</link>
+    </contact>
+    <contact>
+      <name>Website</name>
+      <link>https://bearlyhumans.epsi.dev</link>
+    </contact>
+  </contacts>
+
+</company>
