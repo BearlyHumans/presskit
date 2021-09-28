@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<product>
+<game>
   <!-- ## General Information -->
 
   <title>Squirrelville</title>
@@ -134,4 +134,4 @@
       <link>bearlyhumans.epsi.dev</link>
     </contact>
   </contacts>
-</product>
+</game>
