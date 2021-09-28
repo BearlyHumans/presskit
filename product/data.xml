@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<product>
+  <!-- ## General Information -->
+
+  <title>Squirrelville</title>
+  <website>https://bearlyhumans.epsi.dev/</website>
+
+  <press-copy-request>mailto:bearlyhumans.games@gmail.com</press-copy-request>
+
+  <release-dates>
+    <release-date>TBD</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>PC</name>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>TBD</currency>
+      <value></value>
+    </price>
+  </prices>
+
+  <!-- ## Description & History -->
+
+  <description>
+    Squirrelville is a short Australian adventure where you play as a cheeky squirrel stranded on mountainous 'Acorn Island' in the midst of their annual Acorn Festival. In order to mutually help a local koala retrieve the Giant Acorn from the summit, you must climb, roll, and eat all the way to the peak, overcoming all the obstacles that lie in your way and forming a friendship.
+  </description>
+
+  <history>
+    Squirrelville has taken many different forms throughout development, but has always been a lighthearted animal adventure at its core. The game begun as an open world frog sandbox akin to Goat Simulator, and gradually shifted into the Australian adventure that it is now. Squirrelville has changed a lot, but at its core has always retained the carefree and joyous atmosphere that their team also contains; wanting to spread joy and curiosity through the interactive medium.
+  </history>
+
+  <!-- ## Features -->
+
+  <features>
+    <feature>Explore an open Australian island, using your unique squirrel prowess to overcome any challenge before you.</feature>
+		<feature>Climb, eat, and roll your way to the Giant Acorn at the top of Acorn Island.</feature>
+		<feature>Featuring a unique low-poly world bursting with personality.</feature>
+		<feature>Listen to a smooth beach-rock sountrack, with the playfulness of the Australian outback.</feature>
+		<feature>Meet a friendly Koala companion, and utilise this unlikely duo's friendship to reach your goals!</feature>
+  </features>
+
+  <!-- ## Trailers -->
+
+  <!-- <trailers>
+    <trailer>
+      <name>Release Trailer</name>
+      <youtube>EtXajayBLzw</youtube>
+    </trailer>
+    <trailer>
+      <name>Gameplay Video</name>
+      <youtube>EPNK1j3TMjU</youtube>
+    </trailer>
+  </trailers> -->
+
+  <!-- ## Widgets -->
+
+  <!-- <widgets>
+    <appstore>950812012</appstore>
+    <playstore>com.noodlecake.altosadventure</playstore>
+    <steam>347160</steam>
+    <humble>steredenn/7SDLfk23hw</humble>
+    <itch>27992</itch>
+    <bandcamp>1135613467</bandcamp>
+  </widgets> -->
+
+  <!-- ## Team & Contacts -->
+
+  <credits>
+    <credit>
+      <person>Luke Perry</person>
+      <role>Director, Animator</role>
+    </credit>
+    <credit>
+      <person>Toby Amiel</person>
+      <role>Creative Director, Designer</role>
+    </credit>
+    <credit>
+      <person>Jet Proposch</person>
+      <role>Designer</role>
+    </credit>
+    <credit>
+      <person>Michael Theuy</person>
+      <role>3D Artist</role>
+    </credit>
+    <credit>
+      <person>Saige Omernik</person>
+      <role>2D Artist</role>
+    </credit>
+    <credit>
+      <person>Jake Scott</person>
+      <role>Lead Programmer</role>
+    </credit>
+    <credit>
+      <person>Jordan Epstein</person>
+      <role>Programmer</role>
+    </credit>
+    <credit>
+      <person>Lachlan Hines</person>
+      <role>Programmer</role>
+    </credit>
+    <credit>
+      <person>Callum Lee Gow</person>
+      <role>Composer</role>
+    </credit>
+    <credit>
+      <person>Nicholas Dennis</person>
+      <role>Main Focus Marketing</role>
+      <website>https://mainfocusmarketing.com.au/</website>
+    </credit>
+    <credit>
+      <person>Anita Cercarelli</person>
+      <role>Main Focus Marketing</role>
+      <website>https://mainfocusmarketing.com.au/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>bearlyhumans.games@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/BearlyHumans</link>
+    </contact>
+    <contact>
+      <name>Website</name>
+      <link>bearlyhumans.epsi.dev</link>
+    </contact>
+  </contacts>
+</product>
