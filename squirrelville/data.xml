@@ -4,12 +4,12 @@
   <!-- ## General Information -->
 
   <title>Squirrelville</title>
-  <website>https://bearlyhumans.com/</website>
+  <website>https://squirrelville.bearlyhumans.com/</website>
 
   <press-copy-request>mailto:bearlyhumans.games@gmail.com</press-copy-request>
 
   <release-dates>
-    <release-date>TBD</release-date>
+    <release-date>8th Nov, 2021</release-date>
   </release-dates>
 
   <platforms>
@@ -38,10 +38,10 @@
 
   <features>
     <feature>Explore an open Australian island, using your unique squirrel prowess to overcome any challenge before you.</feature>
-		<feature>Climb, eat, and roll your way to the Giant Acorn at the top of Acorn Island.</feature>
-		<feature>Featuring a unique low-poly world bursting with personality.</feature>
-		<feature>Listen to a smooth beach-rock sountrack, with the playfulness of the Australian outback.</feature>
-		<feature>Meet a friendly Koala companion, and utilise this unlikely duo's friendship to reach your goals!</feature>
+    <feature>Climb, eat, and roll your way to the Giant Acorn at the top of Acorn Island.</feature>
+    <feature>Featuring a unique low-poly world bursting with personality.</feature>
+    <feature>Listen to a smooth beach-rock sountrack, with the playfulness of the Australian outback.</feature>
+    <feature>Meet a friendly Koala companion, and utilise this unlikely duo's friendship to reach your goals!</feature>
   </features>
 
   <!-- ## Trailers -->
@@ -55,18 +55,17 @@
       <name>Music Teaser</name>
       <youtube>pNOH_0C3IIo</youtube>
     </trailer>
+    <trailer>
+      <name>Gameplay Trailer</name>
+      <youtube>EIwbAZCUv9I</youtube>
+    </trailer>
   </trailers>
 
   <!-- ## Widgets -->
 
-  <!-- <widgets>
-    <appstore>950812012</appstore>
-    <playstore>com.noodlecake.altosadventure</playstore>
-    <steam>347160</steam>
-    <humble>steredenn/7SDLfk23hw</humble>
-    <itch>27992</itch>
-    <bandcamp>1135613467</bandcamp>
-  </widgets> -->
+  <widgets>
+    <itch>1264779</itch>
+  </widgets>
 
   <!-- ## Team & Contacts -->
 
@@ -103,7 +102,7 @@
     <credit>
       <person>Jordan Epstein</person>
       <role>Programmer</role>
-      <website>https://epsi.dev</website>
+      <website>https://epsi.dev/</website>
     </credit>
     <credit>
       <person>Lachlan Hines</person>
@@ -142,7 +141,7 @@
     </contact>
     <contact>
       <name>Website</name>
-      <link>https://bearlyhumans.com/</link>
+      <link>https://squirrelville.bearlyhumans.com/</link>
     </contact>
   </contacts>
 </game>
