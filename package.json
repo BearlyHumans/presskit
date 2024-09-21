@@ -1,0 +1,12 @@
+{
+  "name": "presskit",
+  "version": "1.0.0",
+  "description": "Bearly Humans presskit made with presskit.html",
+  "author": "Bearly Humans",
+  "scripts": {
+    "build": "presskit build"
+  },
+  "dependencies": {
+    "presskit": "^0.13.0"
+  }
+}
